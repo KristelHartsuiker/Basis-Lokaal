@@ -39,7 +39,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MeetingRoom4"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -67,7 +67,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MeetingRoom3"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -95,7 +95,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MeetingRoom2"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -123,7 +123,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MeetingRoom1"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -234,7 +234,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"'Druk op spatie om MIRO te openen'"
+                         "value":"Druk op de spatiebalk om MIRO te openen'"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -250,7 +250,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/stdeltion.sharepoint.com\/sites\/mdwodwthemas\/afstandsonderwijs\/Gedeelde%20documenten\/Forms\/AllItems.aspx?id=%2Fsites%2Fmdwodwthemas%2Fafstandsonderwijs%2FGedeelde%20documenten%2FInfographics%2F4%20scenarios%20online%20dag%2Epdf&parent=%2Fsites%2Fmdwodwthemas%2Fafstandsonderwijs%2FGedeelde%20documenten%2FInfographics"
                         }, 
